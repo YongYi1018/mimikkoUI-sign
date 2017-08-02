@@ -1,0 +1,2 @@
+# mimikkoUI-sign
+auto-sign
